@@ -839,6 +839,7 @@ a:focus {
     line-height: 60px;
     margin-bottom: 15px;
     background-image: linear-gradient(#719a0a, #fbaf32);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -1681,7 +1682,6 @@ a:focus {
 }
 
 .sidebar .category-widget ul li span {
-    display: inline-block;
     float: right;
 }
 
