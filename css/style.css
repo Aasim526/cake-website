@@ -55,9 +55,7 @@ a:focus {
     box-shadow: none;
 }
 
-.container-fluid {
-    max-width: 1366px;
-}
+
 
 .back-to-top {
     position: fixed;
