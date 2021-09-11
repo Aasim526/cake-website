@@ -940,14 +940,12 @@ a:focus {
 }
 
 .menu .menu-text h3 span {
-    display: inline-block;
     float: left;
     padding-right: 5px;
     background: #ffffff;
 }
 
 .menu .menu-text h3 strong {
-    display: inline-block;
     float: right;
     padding-left: 5px;
     color: #fbaf32;
