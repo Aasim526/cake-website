@@ -1,6 +1,10 @@
 /*******************************/
 /********* General CSS *********/
 /*******************************/
+
+html{
+    scroll-behavior: smooth;
+}
 body {
     color: #757575;
     background: #ffffff;
